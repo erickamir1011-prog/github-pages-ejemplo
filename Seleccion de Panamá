@@ -1,0 +1,60 @@
+ <!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selección de Panamá</title>
+    <style>
+        * { margin:0; padding:0; box-sizing:border-box; font-family:Arial, sans-serif; }
+        body { background:#f8f8f8; color:#333; }
+        header { background:#DA291C; color:white; padding:1rem; text-align:center; }
+        main { max-width:700px; margin:1.5rem auto; padding:0 1rem; }
+        .bloque { background:white; padding:1.2rem; border-radius:6px; margin-bottom:1rem; box-shadow:0 1px 3px rgba(0,0,0,0.1); }
+        h2 { color:#0055A4; margin-bottom:0.8rem; font-size:1.2rem; }
+        ul { padding-left:1.3rem; }
+        li { margin-bottom:0.4rem; }
+        footer { text-align:center; padding:0.8rem; background:#0055A4; color:white; margin-top:1rem; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>🇵🇦 Selección de Panamá</h1>
+    <p>Los Canaleros</p>
+</header>
+
+<main>
+    <div class="bloque">
+        <h2>Datos rápidos</h2>
+        <p><strong>Entrenador:</strong> Thomas Christiansen</p>
+        <p><strong>Estadio:</strong> Rommel Fernández</p>
+        <p><strong>Mundial 2026:</strong> Clasificado</p>
+    </div>
+
+    <div class="bloque">
+        <h2>Jugadores clave</h2>
+        <ul>
+            <li>Orlando Mosquera (portero)</li>
+            <li>Amir Murillo</li>
+            <li>Adalberto Carrasquilla</li>
+            <li>Aníbal Godoy</li>
+            <li>Ismael Díaz</li>
+        </ul>
+    </div>
+
+    <div class="bloque">
+        <h2>Lo mejor</h2>
+        <ul>
+            <li>2 veces en el Mundial</li>
+            <li>3 veces subcampeón Copa Oro</li>
+            <li>Juego fuerte y rápido</li>
+        </ul>
+    </div>
+</main>
+
+<footer>
+    🇵🇦 Orgullo Canalero
+</footer>
+
+</body>
+</html>
